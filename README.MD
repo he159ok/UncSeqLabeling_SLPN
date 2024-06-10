@@ -1,6 +1,6 @@
 ## Introduction
 
-This is the code for NAACL 2024 findings paper "Uncertainty Estimation on Sequential Labeling via Uncertainty Transmission". 
+This is the code for NAACL 2024 findings paper "[Uncertainty Estimation on Sequential Labeling via Uncertainty Transmission](https://arxiv.org/pdf/2311.08726)". 
 
 
 
